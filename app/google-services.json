@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136607548125",
+    "firebase_url": "https://sangh-66693.firebaseio.com",
+    "project_id": "sangh-66693",
+    "storage_bucket": "sangh-66693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136607548125:android:8ef8f8ef5d4e63b3",
+        "android_client_info": {
+          "package_name": "onesolution.sangh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136607548125-h3om3iikp8ch52efq5hb3uhiufh2n1lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2oF8215_seiuS71cGivpvHSUBXlbtg34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
